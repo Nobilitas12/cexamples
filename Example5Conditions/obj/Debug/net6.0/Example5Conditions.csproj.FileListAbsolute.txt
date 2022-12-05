@@ -1,0 +1,15 @@
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.csproj.AssemblyReference.cache
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.AssemblyInfoInputs.cache
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.AssemblyInfo.cs
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.csproj.CoreCompileInputs.cache
+C:\Users\badass\Desktop\Examples\Example5Conditions\bin\Debug\net6.0\Example5Conditions.exe
+C:\Users\badass\Desktop\Examples\Example5Conditions\bin\Debug\net6.0\Example5Conditions.deps.json
+C:\Users\badass\Desktop\Examples\Example5Conditions\bin\Debug\net6.0\Example5Conditions.runtimeconfig.json
+C:\Users\badass\Desktop\Examples\Example5Conditions\bin\Debug\net6.0\Example5Conditions.dll
+C:\Users\badass\Desktop\Examples\Example5Conditions\bin\Debug\net6.0\Example5Conditions.pdb
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.dll
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\refint\Example5Conditions.dll
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.pdb
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\Example5Conditions.genruntimeconfig.cache
+C:\Users\badass\Desktop\Examples\Example5Conditions\obj\Debug\net6.0\ref\Example5Conditions.dll
