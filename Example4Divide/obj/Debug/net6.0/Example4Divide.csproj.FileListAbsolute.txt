@@ -1,0 +1,15 @@
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.csproj.AssemblyReference.cache
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.AssemblyInfoInputs.cache
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.AssemblyInfo.cs
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.csproj.CoreCompileInputs.cache
+C:\Users\badass\Desktop\Examples\Example4Divide\bin\Debug\net6.0\Example4Divide.exe
+C:\Users\badass\Desktop\Examples\Example4Divide\bin\Debug\net6.0\Example4Divide.deps.json
+C:\Users\badass\Desktop\Examples\Example4Divide\bin\Debug\net6.0\Example4Divide.runtimeconfig.json
+C:\Users\badass\Desktop\Examples\Example4Divide\bin\Debug\net6.0\Example4Divide.dll
+C:\Users\badass\Desktop\Examples\Example4Divide\bin\Debug\net6.0\Example4Divide.pdb
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.dll
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\refint\Example4Divide.dll
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.pdb
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\Example4Divide.genruntimeconfig.cache
+C:\Users\badass\Desktop\Examples\Example4Divide\obj\Debug\net6.0\ref\Example4Divide.dll
