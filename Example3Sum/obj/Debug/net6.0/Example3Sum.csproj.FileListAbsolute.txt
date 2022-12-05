@@ -1,0 +1,15 @@
+C:\Users\badass\Desktop\Examples\Example3Sum\bin\Debug\net6.0\Example3Sum.exe
+C:\Users\badass\Desktop\Examples\Example3Sum\bin\Debug\net6.0\Example3Sum.deps.json
+C:\Users\badass\Desktop\Examples\Example3Sum\bin\Debug\net6.0\Example3Sum.runtimeconfig.json
+C:\Users\badass\Desktop\Examples\Example3Sum\bin\Debug\net6.0\Example3Sum.dll
+C:\Users\badass\Desktop\Examples\Example3Sum\bin\Debug\net6.0\Example3Sum.pdb
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.csproj.AssemblyReference.cache
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.AssemblyInfoInputs.cache
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.AssemblyInfo.cs
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.csproj.CoreCompileInputs.cache
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.dll
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\refint\Example3Sum.dll
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.pdb
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\Example3Sum.genruntimeconfig.cache
+C:\Users\badass\Desktop\Examples\Example3Sum\obj\Debug\net6.0\ref\Example3Sum.dll
